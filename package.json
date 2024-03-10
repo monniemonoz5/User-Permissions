@@ -1,0 +1,26 @@
+{
+"name": "user-permissions-wangba99",
+"version": "1.0.0",
+"description": "The project has a flexible user permission management mechanism, allowing you to configure user permissions according to your needs.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/monniemonoz5/User-Permissions.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "monniemonoz5",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
